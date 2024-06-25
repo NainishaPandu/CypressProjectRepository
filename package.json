@@ -171,7 +171,8 @@
     "yauzl": "^2.10.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "new_test": "cypress run --spec 'cypress/e2e/*.cy.js' --browser chrome"
   },
   "author": "Nainisha pandu",
   "license": "ISC"
