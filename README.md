@@ -11,3 +11,5 @@
 #Added Viewport changes in the config.js file and also added and commented out in the Testcase file  
 
 #Installed the Prettier plugin to format the code
+
+#Execution is captured in Videos for confirmation
